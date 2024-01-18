@@ -43,7 +43,7 @@ This repository showcases data visualizations created using Tableau based on the
    - Import the Tableau workbook file (.twb or .twbx) into your Tableau Desktop for an in-depth exploration of the visualizations.
 
 ## Data Source
-The data used for these visualizations is sourced from the "SuperStore" dataset provided in the "superstore.xlsx" file.
+The data used for these visualizations is sourced from the "SuperStore" dataset provided in the "Sample+-+Superstore.xls" file.
 
 ## Story View 
 
